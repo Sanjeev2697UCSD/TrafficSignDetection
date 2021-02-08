@@ -1,0 +1,1 @@
+This project is about the detection of traffic signs under harsh weather conditions like fog and snow.
